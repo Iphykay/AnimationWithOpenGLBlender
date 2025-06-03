@@ -9,7 +9,7 @@ The rotors of the helicopter are saved to:
        
        smallrotors.py
        
-They both contain the lines, vertices, edges used to draw the helicopter.
+They both contain the lines, vertices, edges and faces used to draw the helicopter.
 
 The helicopter rendered in:
 
