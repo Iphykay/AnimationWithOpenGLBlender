@@ -11,8 +11,13 @@ The rotors of the helicopter are saved to:
        
 They both contain the lines, vertices, edges used to draw the helicopter.
 
-The helicopter rendered in the helicopterRenderer.py file
-The building rendered in building_renderer.py file
+The helicopter rendered in:
+
+helicopterRenderer.py file
+
+The building rendered in :
+
+building_renderer.py file
 
 The mainv1.py houses all the components.
 
