@@ -4,8 +4,11 @@ This project uses Blender to build 3d models and OpenGL used to run the simulati
 Blender used to draw the 3D models.
 
 The rotors of the helicopter are saved to:
+
        bigrotors.py
+       
        smallrotors.py
+       
 They both contain the lines, vertices, edges used to draw the helicopter.
 
 The helicopter rendered in the helicopterRenderer.py file
