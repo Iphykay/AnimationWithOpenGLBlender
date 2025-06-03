@@ -13,11 +13,11 @@ They both contain the lines, vertices, edges used to draw the helicopter.
 
 The helicopter rendered in:
 
-helicopterRenderer.py file
+       helicopterRenderer.py
 
 The building rendered in :
 
-building_renderer.py file
+       building_renderer.py
 
 The mainv1.py houses all the components.
 
