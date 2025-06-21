@@ -1,7 +1,8 @@
 # AnimationWithOpenGLBlender
 This mini-project uses Blender to build 3d models and OpenGL used to run the simulation.
+The Goal: To have a helicopter fly across buildings 
 
-Blender used to draw the 3D models.
+Blender used to draw the 3D models. 
 
 The rotors of the helicopter are saved to:
 
